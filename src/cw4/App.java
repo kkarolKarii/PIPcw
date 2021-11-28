@@ -5,14 +5,15 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        // zadanie1();
+        zadanie1();
         // zadanie2();
         // zadanie3();
         // zadanie4();
-        zadanie5();
+        // zadanie5();
     }
 
     public static void zadanie1() {
+
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Zadanie 1");
